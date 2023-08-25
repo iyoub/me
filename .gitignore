@@ -28,4 +28,6 @@ pages
 layouts
 components
 server
-app.vue
+app.
+package.json
+nuxt.config.js
